@@ -23,7 +23,8 @@ I'm a **first-year Computer Engineering student** who doesn't just want to *use*
 
 Not the fastest. Not the most polished. But I show up, I build, I break things, and I figure it out.
 
-> *"Cope it until you cook it. Make it, break it, fix it."*
+> *"Cope it until you cook it."*
+> *"Make it, break it, fix it."*
 
 ---
 
@@ -96,14 +97,18 @@ No shortcuts. No skipping steps.
 
 ---
 
-## 📊 Power Levels
+🔥Streak
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MrSJx&theme=merko&hide_border=true)
+
+<!--## 📊 Power Levels
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrSJx&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=00FF99&text_color=ffffff" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSJx&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FF99&text_color=ffffff" alt="Top Languages" />
 </div>
-
+-->
 ---
 
 ## ⚡ Current Struggle
