@@ -1,7 +1,24 @@
-<div align="center">
+<!--<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff99,100:0d0d0d&height=200&section=header&text=MR.SJX&fontSize=80&fontColor=00ff99&animation=fadeIn&fontAlignY=38&desc=Building%20the%20things%20that%20don't%20exist%20yet&descAlignY=60&descSize=16&descColor=ffffff" />
 
+</div>-->
+
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff99,100:0d0d0d&height=60&section=header" />
+ 
+```
+███╗   ███╗██████╗       ███████╗     ██╗██╗  ██╗
+████╗ ████║██╔══██╗      ██╔════╝     ██║╚██╗██╔╝
+██╔████╔██║██████╔╝      ███████╗     ██║ ╚███╔╝ 
+██║╚██╔╝██║██╔══██╗      ╚════██║██   ██║ ██╔██╗ 
+██║ ╚═╝ ██║██║  ██║      ███████║╚█████╔╝██╔╝ ██╗
+╚═╝     ╚═╝╚═╝  ╚═╝      ╚══════╝ ╚════╝ ╚═╝  ╚═╝
+```
+ 
+##### ⚡ Building the things that don't exist yet.
+ 
 </div>
 
 <div align="center">
@@ -17,7 +34,7 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  $ whoami                                            ║
-║  > MrSJx — CE Freshman. Builder. Chaos Coordinator. ║
+║  > MrSJx — CE Freshman. Builder. Chaos Coordinator.  ║
 ║  $ cat mission.txt                                   ║
 ║  > Build real systems. Not tutorials.                ║
 ║  $ status                                            ║
@@ -182,8 +199,8 @@ $ cat /mindset/how_i_work.txt
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF99)](https://www.linkedin.com/in/mrsjx)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF99)](https://github.com/MrSJx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF99)](https://www.linkedin.com/in/mrsjx)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF99)](https://www.instagram.com/mr.sjx_official)
 
 <br/>
