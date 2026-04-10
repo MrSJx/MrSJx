@@ -4,9 +4,9 @@
 
 </div>-->
 
-<div align="center">
- 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff99,100:0d0d0d&height=60&section=header" />
+ 
+<div align="center">
  
 ```
 ███╗   ███╗██████╗       ███████╗     ██╗██╗  ██╗
