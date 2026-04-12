@@ -80,10 +80,10 @@ class MrSJx:
 | `#` | Project | What it actually does | Stack |
 |:---:|:--------|:----------------------|:-----:|
 | 01 | 🌊 **[FloodSense](https://github.com/MrSJx/floodsense)** | Real-time flood prediction + simulation for Kolhapur district. Built for Agro Pune Hackathon. Live repo. | `Python` `AI` `Geo` |
-| 02 | 🧠 **Audience** | AI-based audience interaction system using Meta Tribe v2 architecture | `Python` `AI` |
-| 03 | 💱 **SwapSkill** | P2P skill-trade & monetization platform for college students. Full startup blueprint. | `Python` `Web` |
-| 04 | 🎙️ **Radio Ragaa** | Club website built with AI — creative brand going live | `Web` `AI` |
-| 05 | 📊 **Daily Review App** | Tracks learning, forces reflection, kills passive grinding | `Streamlit` `Python` |
+| 02 | 🧠 **[Audience](https://github.com/MrSJx/Audience)** | AI-based audience interaction system using Meta Tribe v2 architecture | `Python` `AI` |
+| 03 | 💱 **[SwapSkill]** | P2P skill-trade & monetization platform for college students. Full startup blueprint. | `Python` `Web` |
+| 04 | 🎙️ **[Radio Ragaa](https://github.com/MrSJx/RadioRaaga)** | Club website built with AI — creative brand going live | `Web` `AI` |
+| 05 | 📊 **[Daily Review App]** | Tracks learning, forces reflection, kills passive grinding | `Streamlit` `Python` |
 
 </div>
 
